@@ -1,0 +1,6 @@
+huggingface_hub
+google-genai
+gradio
+fastapi
+uvicorn
+requests
