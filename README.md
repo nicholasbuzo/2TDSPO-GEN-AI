@@ -452,3 +452,7 @@ nome-do-repositorio/
 - Gemini, instruções de sistema: https://ai.google.dev/gemini-api/docs/text-generation
 - Gradio, `ChatInterface`: https://www.gradio.app/docs/gradio/chatinterface
 - FastAPI: https://fastapi.tiangolo.com/
+
+<img width="994" height="455" alt="{7DC3AA65-D85D-489A-A99F-62B23041874D}" src="https://github.com/user-attachments/assets/ea204494-ecbf-423e-8616-e26639dab726" />
+<img width="970" height="445" alt="{81608666-397E-4574-8E7F-388C037C4F1F}" src="https://github.com/user-attachments/assets/466dc42a-d7e4-4bbc-bf89-6c69bc1c3f31" />
+
